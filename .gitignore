@@ -1,0 +1,15 @@
+# Environnement virtuel (recréé par `uv sync`)
+.venv/
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Réglages personnels de l'éditeur
+.vscode/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
