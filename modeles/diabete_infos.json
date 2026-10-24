@@ -1,0 +1,31 @@
+{
+  "date_entrainement": "2026-10-23T23:22:53",
+  "modele": "Pipeline StandardScaler + LinearRegression",
+  "versions": {
+    "python": "3.12.7",
+    "scikit-learn": "1.9.1",
+    "joblib": "1.6.0",
+    "numpy": "2.5.4"
+  },
+  "variables_attendues": [
+    "age",
+    "sex",
+    "bmi",
+    "bp",
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6"
+  ],
+  "unites": "mesures non standardisées (load_diabetes(scaled=False))",
+  "n_entrainement": 353,
+  "n_test": 89,
+  "metriques_test": {
+    "MAE": 42.7941,
+    "RMSE": 53.8534,
+    "R2": 0.4526
+  },
+  "sha256_modele": "c61ea3607a804366b5af403086e9408cb1271f472c2ffda7c70db8449e09bc07"
+}
