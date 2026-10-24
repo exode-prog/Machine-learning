@@ -1,7 +1,6 @@
 # Examen bloc A : machine learning
 
-Projet réalisé par **Exode NGAMENEDE** dans le cadre de l'examen de machine learning de
-l'École Centrale des Logiciels Libres et de Télécommunications (EC2LT), sous la supervision de M. FALL.
+Projet réalisé dans le cadre de l'examen de machine learning 
 
 ## Contenu du dépôt
 
