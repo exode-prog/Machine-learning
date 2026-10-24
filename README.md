@@ -25,8 +25,8 @@ Installer [uv](https://docs.astral.sh/uv/). uv installe lui-même Python 3.12 si
 
 ### 2. Récupérer le projet et recréer l'environnement
 ```bash
-git clone https://github.com/<votre-compte>/examen_NGAMENEDE_Exode.git
-cd examen_NGAMENEDE_Exode
+git clone https://github.com/exode-prog/Machine-learning.git
+cd Machine-learning
 uv sync --locked
 ```
 `uv sync --locked` crée l'environnement virtuel `.venv` et installe **exactement** les versions
